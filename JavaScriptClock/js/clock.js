@@ -10,7 +10,7 @@ function showTime(){
     let d = weekDay[today.getDay()]
     let mo = month[today.getMonth()]
     let y = today.getFullYear()
-    let da = today.getDay()
+    let da = today.getDate()
 
 
     myName.innerHTML = (userName ? `${userName}` : `sana`)
