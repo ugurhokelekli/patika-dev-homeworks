@@ -1,0 +1,63 @@
+#main {
+    text-align: center;
+}
+
+#products {
+    align-items: center;
+}
+
+#about-us {
+    text-align: left;
+}
+
+#nav {
+    padding: .2em 1em;
+}
+
+#header {
+    
+}
+
+body {
+    
+    text-align: center;
+    background-color: white;
+}
+
+ol, ul {
+    list-style-position: inside;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(131, 29, 29);
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Potta One', cursive;
+    color: rgb(187, 34, 34);
+}
+
+h2 {
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    color: brown;
+}
+
+h3 {
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(143, 49, 49);
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Roboto Slab', serif;
+    color: rgb(61, 14, 14);
+}
+
+a {
+    font-size: 20px;
+    font-family: 'Potta One', cursive;
+    color: brown;
+}
