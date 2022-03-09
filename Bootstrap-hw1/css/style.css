@@ -1,0 +1,23 @@
+ul {
+    list-style-position: inside;
+}
+
+.fs-64 {
+    font-size: 64px;
+}
+
+.fs-48 {
+    font-size: 48px;
+}
+
+.fs-24 {
+    font-size: 24px;
+}
+
+.fs-20 {
+    font-size: 20px;
+}
+
+.fs-16 {
+    font-size: 16px;
+}
