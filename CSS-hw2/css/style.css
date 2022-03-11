@@ -1,0 +1,52 @@
+.container {
+    width: 100%;   
+}
+
+.row-1 {
+    background-color: rgba(223, 223, 223, 0.514);
+    display: block;
+    width: 90%;
+    margin-bottom: 3px;
+}
+
+.row-2 {
+    display: grid;
+    grid-template-columns: 37% 20% 43%;
+    width: 90%;
+    margin-bottom: 3px;
+}
+
+.col-1 {
+    background-color: rgb(126, 229, 218);
+}
+
+.col-2 {
+    background-color: rgb(112, 204, 194);
+    font-size: small;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+.col-3 {
+    background-color: rgb(98, 179, 170);
+    font-size: small;
+}
+
+.row-3 {
+    font-size: small;
+}
+
+.text-center {
+    text-align: -webkit-center;
+}
+
+ul, li {
+    list-style-type: none;
+}
+
+#search {
+    width: 20%;
+}
+
+
+
