@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "inquirer": "^8.2.2"
+  }
+}
